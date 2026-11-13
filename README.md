@@ -1,8 +1,8 @@
 # Sales Analytics
 
-Repositório dedicado ao desenvolvimento de estudos e práticas envolvendo Python, SQL Server e análise de dados.
+Projeto de análise de dados voltado ao cenário de uma loja virtual, com foco no acompanhamento e na análise de informações relacionadas a clientes, produtos e vendas.
 
-O projeto tem como propósito explorar ferramentas e conceitos relacionados à manipulação de dados, integração com bancos relacionais e utilização de bibliotecas Python.
+O projeto utiliza Python e Microsoft SQL Server para explorar conceitos de gerenciamento de dados, integração com bancos relacionais e análise de informações comerciais.
 
 ## Tecnologias
 
